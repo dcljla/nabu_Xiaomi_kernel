@@ -17,7 +17,7 @@ jobs:
           kernel-url: https://github.com/dcljla/nabu_Xiaomi_kernel
           kernel-dir: kernel
           kernel-branch: main
-          config: nabu_user_defconfig
+          config: nabu_stability_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
